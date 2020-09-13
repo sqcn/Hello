@@ -21,8 +21,9 @@ int main
   printf("Hello Wworld");
 }
 ```
+
 -------- | -----------
 Hello | World
---------
+-------- | -----------
 Hello World
 --------- | -----------
